@@ -1,0 +1,17 @@
+ALGORITMO: VALIDAR CITA MÉDICA
+
+Inicio
+
+1. Solicitar el documento del afiliado.
+2. Consultar si el afiliado existe en el sistema.
+3. Si el afiliado no existe:
+      Mostrar "Afiliado no encontrado".
+      Finalizar.
+4. Consultar la disponibilidad de citas.
+5. Si no hay citas disponibles:
+      Mostrar "No hay citas disponibles".
+      Finalizar.
+6. Registrar la cita médica.
+7. Mostrar "Cita registrada correctamente".
+
+Fin
